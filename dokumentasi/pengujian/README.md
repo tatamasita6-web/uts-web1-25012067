@@ -2,9 +2,9 @@
 
 ## Identitas
 
-- **Nama:** Masita Khairunnissa
-- **NIM:** 25012067
-- **Kelas:** 25M31
+- Nama: Masita Khairunnissa
+- NIM: 25012067
+- Kelas: 25M31
 
 ## Hasil Pengujian
 
@@ -26,11 +26,10 @@
 
 ## Catatan Perbaikan
 
-Catat masalah yang ditemukan selama pengujian, perbaikan yang dilakukan, dan hasil pengujian ulang.
-
-- Hasil pengujian dicatat sesuai kondisi aktual website.
-- Pengujian yang belum dilakukan akan dilanjutkan setelah pengujian awal selesai.
-- Status Lulus atau Gagal ditentukan berdasarkan kesesuaian hasil aktual dengan hasil yang diharapkan.
+- Hasil aktual dicatat berdasarkan hasil pengujian website.
+- Status pengujian ditentukan berdasarkan kesesuaian hasil aktual dengan hasil yang diharapkan.
+- Pengujian yang belum dilakukan akan dilanjutkan.
+- Jika ditemukan kesalahan, lakukan perbaikan dan pengujian ulang.
 
 ## Kesimpulan
 
